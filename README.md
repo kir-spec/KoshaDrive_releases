@@ -6,6 +6,14 @@
 
 Установщик: **[KoshaDriveSetup_13.04.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.13.04.2026/KoshaDriveSetup_13.04.2026.exe)**
 
+## Telegram и поддержка
+
+- **Канал программы:** [@KoshaDrive](https://t.me/KoshaDrive) — новости и обновления
+- **Чат пользователей:** [@KoshaDrive_chat](https://t.me/KoshaDrive_chat)
+- **Написать разработчику:** [личные сообщения канала](https://t.me/KoshaDrive?direct) (кнопка «Написать» в профиле [@KoshaDrive](https://t.me/KoshaDrive))
+- **Почта:** [koshadrive@gmail.com](mailto:koshadrive@gmail.com)
+
+
 ---
 
 <details>
@@ -140,7 +148,7 @@ KoshaDrive позволяет удобно хранить файлы и орга
 **Шаг 17.** В меню **«Справка»** — руководство, поддержка, кнопка **«Написать разработчику»**.  
 **Шаг 18.** Ответ разработчика приходит уведомлением **«Вам ответил разработчик»** — нажмите, чтобы прочитать.
 
-**Почта:** koshadrive@gmail.com
+**Связь:** [канал KoshaDrive](https://t.me/KoshaDrive) · [чат пользователей](https://t.me/KoshaDrive_chat) · [написать разработчику в Telegram](https://t.me/KoshaDrive?direct) · почта koshadrive@gmail.com
 
 ---
 
