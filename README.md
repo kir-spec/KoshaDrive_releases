@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="docs/banner.jpg" alt="KoshaDrive" width="640"/>
+</p>
+
+
 # KoshaDrive
 
 **Версия:** `ver.13.04.2026`
