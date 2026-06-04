@@ -59,39 +59,39 @@ KoshaDrive позволяет удобно хранить файлы и орга
 
 Скриншоты установки и первого запуска.
 
-<img src="docs/setup/setup_01.jpg" alt="setup_01.jpg" width="720"/>
+<img src="docs/setup/setup_01.jpg" alt="setup_01.jpg" width="360"/>
 
-<img src="docs/setup/setup_02.jpg" alt="setup_02.jpg" width="720"/>
+<img src="docs/setup/setup_02.jpg" alt="setup_02.jpg" width="360"/>
 
-<img src="docs/setup/setup_03.jpg" alt="setup_03.jpg" width="720"/>
+<img src="docs/setup/setup_03.jpg" alt="setup_03.jpg" width="360"/>
 
-<img src="docs/setup/setup_04.jpg" alt="setup_04.jpg" width="720"/>
+<img src="docs/setup/setup_04.jpg" alt="setup_04.jpg" width="360"/>
 
-<img src="docs/setup/setup_05.jpg" alt="setup_05.jpg" width="720"/>
+<img src="docs/setup/setup_05.jpg" alt="setup_05.jpg" width="360"/>
 
-<img src="docs/setup/setup_06.jpg" alt="setup_06.jpg" width="720"/>
+<img src="docs/setup/setup_06.jpg" alt="setup_06.jpg" width="360"/>
 
-<img src="docs/setup/setup_07.jpg" alt="setup_07.jpg" width="720"/>
+<img src="docs/setup/setup_07.jpg" alt="setup_07.jpg" width="360"/>
 
-<img src="docs/setup/setup_08.jpg" alt="setup_08.jpg" width="720"/>
+<img src="docs/setup/setup_08.jpg" alt="setup_08.jpg" width="360"/>
 
-<img src="docs/setup/setup_09.jpg" alt="setup_09.jpg" width="720"/>
+<img src="docs/setup/setup_09.jpg" alt="setup_09.jpg" width="360"/>
 
-<img src="docs/setup/setup_10.jpg" alt="setup_10.jpg" width="720"/>
+<img src="docs/setup/setup_10.jpg" alt="setup_10.jpg" width="180"/>
 
-<img src="docs/setup/setup_11.jpg" alt="setup_11.jpg" width="720"/>
+<img src="docs/setup/setup_11.jpg" alt="setup_11.jpg" width="360"/>
 
-<img src="docs/setup/setup_12.jpg" alt="setup_12.jpg" width="720"/>
+<img src="docs/setup/setup_12.jpg" alt="setup_12.jpg" width="360"/>
 
-<img src="docs/setup/setup_13.jpg" alt="setup_13.jpg" width="720"/>
+<img src="docs/setup/setup_13.jpg" alt="setup_13.jpg" width="360"/>
 
-<img src="docs/setup/setup_14.jpg" alt="setup_14.jpg" width="720"/>
+<img src="docs/setup/setup_14.jpg" alt="setup_14.jpg" width="360"/>
 
-<img src="docs/setup/setup_15.jpg" alt="setup_15.jpg" width="720"/>
+<img src="docs/setup/setup_15.jpg" alt="setup_15.jpg" width="360"/>
 
-<img src="docs/setup/setup_16.jpg" alt="setup_16.jpg" width="720"/>
+<img src="docs/setup/setup_16.jpg" alt="setup_16.jpg" width="360"/>
 
-<img src="docs/setup/setup_17.jpg" alt="setup_17.jpg" width="720"/>
+<img src="docs/setup/setup_17.jpg" alt="setup_17.jpg" width="360"/>
 
-<img src="docs/setup/setup_18.jpg" alt="setup_18.jpg" width="720"/>
+<img src="docs/setup/setup_18.jpg" alt="setup_18.jpg" width="360"/>
 
