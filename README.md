@@ -51,14 +51,15 @@ KoshaDrive помогает использовать ваш аккаунт Teleg
 
 KoshaDrive позволяет удобно хранить файлы и организовывать их так, как вам нужно.
 
-Связь с разработчиком - kvf_soft@mail.ru
+Связь с разработчиком - koshadrive@gmail.com
 
 </details>
 
 
 ---
 
-## Установка и первый запуск
+<details>
+<summary><strong>Установка и первый запуск</strong> (нажмите, чтобы развернуть)</summary>
 
 ### Что понадобится
 
@@ -139,14 +140,13 @@ KoshaDrive позволяет удобно хранить файлы и орга
 **Шаг 17.** В меню **«Справка»** — руководство, поддержка, кнопка **«Написать разработчику»**.  
 **Шаг 18.** Ответ разработчика приходит уведомлением **«Вам ответил разработчик»** — нажмите, чтобы прочитать.
 
-**Почта:** kvf_soft@mail.ru
+**Почта:** koshadrive@gmail.com
 
 ---
 
 ### Скриншоты
 
 Ниже — те же шаги в виде картинок. **Нажмите на миниатюру**, чтобы открыть полный размер.
-
 
 <a href="docs/setup/full/setup_01.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_01.png" alt="setup_01.png" width="432"/></a>
 
@@ -183,4 +183,6 @@ KoshaDrive позволяет удобно хранить файлы и орга
 <a href="docs/setup/full/setup_17.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_17.png" alt="setup_17.png" width="432"/></a>
 
 <a href="docs/setup/full/setup_18.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_18.png" alt="setup_18.png" width="432"/></a>
+
+</details>
 
