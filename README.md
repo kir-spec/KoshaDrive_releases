@@ -5,11 +5,11 @@
 
 # KoshaDrive
 
-**Версия:** `ver.13.04.2026`
+**Версия:** `ver.04.06.2026`
 
 ## Скачать
 
-Установщик: **[KoshaDriveSetup_13.04.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.13.04.2026/KoshaDriveSetup_13.04.2026.exe)**
+Установщик: **[KoshaDriveSetup_04.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.04.06.2026/KoshaDriveSetup_04.06.2026.exe)**
 
 ## Telegram и поддержка
 
