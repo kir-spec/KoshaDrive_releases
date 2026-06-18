@@ -21,58 +21,157 @@
 
 ---
 
+## Возможности / Features / Можливості
+
+Choose a language below / Выберите язык / Оберіть мову:
+
 <details>
-<summary><strong>О программе KoshaDrive</strong> (нажмите, чтобы развернуть)</summary>
+<summary><strong>🇷🇺 Русский — возможности облачного менеджера</strong></summary>
 
-KoshaDrive: Ваш персональный облачный диск
+KoshaDrive — **облачный файловый менеджер** для Windows: ваш Telegram становится персональным диском с привычным интерфейсом проводника, деревом папок, превью, загрузкой и синхронизацией.
 
-KoshaDrive помогает использовать ваш аккаунт Telegram как облачное хранилище, предоставляя удобный интерфейс для управления файлами.
+### Облако и файловая система
+- **Виртуальная ФС** — папки и файлы в дереве, как на локальном диске, без поиска по ленте сообщений.
+- **Несколько хранилищ** — «Моё облако», «Избранное», Saved Messages; переключение между пространствами.
+- **Сканирование облака** — сверка локальной БД с Telegram, метрики «найдено / проверено / новых».
+- **Комментарии к файлам** и **цветные иконки папок** для быстрой навигации.
 
-Возможности программы:
+### Загрузка и скачивание
+- **Drag-and-Drop в облако** — перетащите файлы и целые папки из Проводника в KoshaDrive.
+- **Умная загрузка больших папок** — живая подготовка, прогресс, отмена; докачка после сбоев.
+- **Менеджер загрузок** — очередь, пауза, возобновление, контроль фоновых передач.
+- **Drag-and-Drop наружу** — вытащите файлы из облака прямо в Windows и другие приложения.
 
-Свобода действий
+### Просмотр и организация
+- Режимы: **детали, плитки, иконки, «Галерея»** с зумом и cover-crop для фото/видео.
+- **Поиск** по имени и области; **сортировка**; **избранное** (звёздочки).
+- **Превью** с автоповтором при сбоях сети — миниатюры не «залипают».
 
-Инфраструктура Telegram предоставляет значительные ресурсы для хранения данных, а KoshaDrive делает их управляемыми.
+### Корзина как в Windows
+- **Мягкое удаление** — в облаке файл остаётся, пока вы не очистите корзину.
+- Отдельное окно корзины, **восстановление** с диалогами конфликтов, drag-restore.
 
-Загружайте видео в высоком разрешении, образы дисков и архивы.
+### Инструменты и миграция
+- **Импорт T-Drive → KoshaDrive** — перенос чужой базы в ваш формат.
+- **Синхронизация и аудит БД**, резервное копирование настроек, работа через **прокси**.
+- **Встроенный чат Telegram** — отправка файлов контактам без выхода из программы.
 
-Храните документы, фотографии и резервные копии в одном месте.
+### Интерфейс и настройки
+- Тёмная тема, **фон рабочей области**, цвет имён файлов, **стиль папок с живым превью**.
+- Локализация **RU / EN**; справка и «О программе» внутри приложения.
 
-Управляйте большими объемами данных без ограничений со стороны программы.
+### Надёжность
+- Обработка **FloodWait**, классификация сетевых ошибок, **680+ автотестов**.
+- Лицензирование v3, демо-режим, защита API-ключей в сборке.
 
-Организация файлов
+### Установка
+1. Скачайте `KoshaDriveSetup_18.06.2026.exe` ниже.
+2. Windows 10/11, x64.
+3. При обновлении настройки и база сохраняются.
 
-Больше не нужно искать файлы в ленте сообщений. Виртуальная файловая система предоставляет следующие возможности:
+</details>
 
-Привычный интерфейс: работайте с файлами как в обычном проводнике Windows.
+<details>
+<summary><strong>🇬🇧 English — cloud manager features</strong></summary>
 
-Древовидная структура: создавайте вложенные папки для удобного порядка.
+KoshaDrive is a **cloud file manager** for Windows: turn Telegram into a personal drive with an Explorer-like UI, folder tree, thumbnails, uploads, and sync.
 
-Управление: добавляйте текстовые комментарии к файлам и выбирайте иконки для папок.
+### Cloud & virtual filesystem
+- **Virtual FS** — folders and files in a tree, not buried in chat history.
+- **Multiple storages** — My Cloud, Favorites, Saved Messages; switch workspaces easily.
+- **Cloud scan** — reconcile local DB with Telegram; metrics for found / verified / new items.
+- **File comments** and **colored folder icons** for quick navigation.
 
-Приватность
+### Upload & download
+- **Drag-and-Drop into the cloud** — drop files and entire folders from Explorer.
+- **Smart large-folder uploads** — live prep progress, cancel anytime; resume after failures.
+- **Downloads manager** — queue, pause, resume, background transfer control.
+- **Drag-and-Drop outward** — pull files from the cloud into Windows and other apps.
 
-Ваши файлы хранятся на серверах Telegram. Приложение спроектировано так, что доступ к структуре данных и файлам осуществляете только вы через свой аккаунт.
+### Browse & organize
+- Views: **details, tiles, icons, Gallery** with zoom and cover-crop for photos/videos.
+- **Search** and **sort**; **favorites** (stars).
+- **Thumbnails** with retry on network errors — previews stay responsive.
 
-Интеллектуальная загрузка
+### Recycle Bin (Windows-style)
+- **Soft delete** — cloud copy remains until you purge Trash.
+- Dedicated Trash window, **restore** with conflict dialogs, drag-restore.
 
-Алгоритмы автоматически управляют фоновой загрузкой. При перетаскивании папки программа распределяет данные и загружает их в облако.
+### Tools & migration
+- **T-Drive → KoshaDrive import** — migrate legacy databases.
+- **DB sync & audit**, settings backup, **proxy** support.
+- **Built-in Telegram chat** — share files with contacts without leaving the app.
 
-Работа в одном окне
+### UI & settings
+- Dark theme, **workspace background**, file name colors, **live folder style preview**.
+- **RU / EN** localization; in-app help and About screen.
 
-Вы можете отправлять файлы своим контактам напрямую из интерфейса KoshaDrive. Встроенный чат позволяет делиться данными без необходимости открывать основное приложение мессенджера.
+### Reliability
+- **FloodWait** handling, network error classification, **680+ automated tests**.
+- Licensing v3, demo mode, protected API credentials in release builds.
 
-KoshaDrive позволяет удобно хранить файлы и организовывать их так, как вам нужно.
+### Installation
+1. Download `KoshaDriveSetup_18.06.2026.exe` below.
+2. Windows 10/11, x64.
+3. Settings and database preserved on upgrade.
 
-Связь с разработчиком - koshadrive@gmail.com
+</details>
+
+<details>
+<summary><strong>🇺🇦 Українська — можливості хмарного менеджера</strong></summary>
+
+KoshaDrive — **хмарний файловий менеджер** для Windows: ваш Telegram стає персональним диском із знайомим інтерфейсом провідника, деревом папок, прев’ю, завантаженням і синхронізацією.
+
+### Хмара та віртуальна ФС
+- **Віртуальна ФС** — папки й файли в дереві, а не в стрічці повідомлень.
+- **Кілька сховищ** — «Моя хмара», «Обране», Saved Messages; перемикання просторів.
+- **Сканування хмари** — звірка локальної БД з Telegram; метрики знайдено / перевірено / нових.
+- **Коментарі до файлів** і **кольорові іконки папок** для швидкої навігації.
+
+### Завантаження та скачування
+- **Drag-and-Drop у хмару** — перетягніть файли та цілі папки з Провідника.
+- **Розумне завантаження великих папок** — жива підготовка, прогрес, скасування; докачка після збоїв.
+- **Менеджер завантажень** — черга, пауза, відновлення, контроль фонових передач.
+- **Drag-and-Drop назовні** — файли з хмари прямо в Windows та інші програми.
+
+### Перегляд і організація
+- Режими: **деталі, плитки, іконки, «Галерея»** із зумом і cover-crop для фото/відео.
+- **Пошук** і **сортування**; **обране** (зірочки).
+- **Прев’ю** з автоповтором при збоях мережі.
+
+### Кошик як у Windows
+- **М’яке видалення** — у хмарі файл лишається, доки не очистите кошик.
+- Окреме вікно кошика, **відновлення** з діалогами конфліктів, drag-restore.
+
+### Інструменти та міграція
+- **Імпорт T-Drive → KoshaDrive** — перенесення чужої бази.
+- **Синхронізація та аудит БД**, резерв налаштувань, робота через **проксі**.
+- **Вбудований чат Telegram** — надсилання файлів контактам без виходу з програми.
+
+### Інтерфейс і налаштування
+- Темна тема, **фон робочої області**, колір імен файлів, **стиль папок із живим прев’ю**.
+- Локалізація **RU / EN**; довідка та «Про програму» в застосунку.
+
+### Надійність
+- Обробка **FloodWait**, класифікація мережевих помилок, **680+ автотестів**.
+- Ліцензування v3, демо-режим, захист API-ключів у збірці.
+
+### Встановлення
+1. Завантажте `KoshaDriveSetup_18.06.2026.exe` нижче.
+2. Windows 10/11, x64.
+3. При оновленні налаштування та база зберігаються.
 
 </details>
 
 
 ---
 
+## Установка / Installation / Встановлення
+
+Choose a language below / Выберите язык / Оберіть мову:
+
 <details>
-<summary><strong>Установка и первый запуск</strong> (нажмите, чтобы развернуть)</summary>
+<summary><strong>🇷🇺 Русский — установка и первый запуск</strong></summary>
 
 ### Что понадобится
 
@@ -157,9 +256,142 @@ KoshaDrive позволяет удобно хранить файлы и орга
 
 ---
 
-### Скриншоты
 
-Ниже — те же шаги в виде картинок. **Нажмите на миниатюру**, чтобы открыть полный размер.
+</details>
+
+<details>
+<summary><strong>🇬🇧 English — installation and first launch</strong></summary>
+
+### Requirements
+
+- **Windows 10 or 11** PC.
+- A few hundred MB of free disk space.
+- A **Telegram** account (Telegram app on your phone).
+- Administrator rights — usually already available on your own PC.
+
+### Download the installer
+
+1. Click **`KoshaDriveSetup_….exe`** in the **Download** section above.
+2. Save the file (e.g. to Downloads).
+3. If Windows asks to allow changes — click **Yes**.
+
+---
+
+### Installation wizard
+
+**Step 1. Setup language** — run the downloaded file, choose language, click **OK**.
+
+**Step 2. Install folder** — default `C:\Program Files\KoshaDrive` is fine; click **Next** (or **Browse…** to change).
+
+**Step 3. Start menu shortcuts** — click **Next**; uncheck if you do not want a Start menu folder.
+
+**Step 4. Desktop icon** — optionally enable a **desktop shortcut**, then **Next**.
+
+**Step 5. Ready to install** — review summary, click **Install** (or **Back** to edit).
+
+**Step 6. Wait** — files are copied; do not close the window.
+
+**Step 7. Finish** — click **Finish**; leave **Launch KoshaDrive** checked to start immediately.
+
+---
+
+### First launch
+
+**Step 8. EULA** — read, check **I accept…**, click **Accept**.
+
+**Step 9. Telegram API (optional)** — advanced users may set API ID/Hash; or **Continue without guarantees**.
+
+**Step 10. Telegram login** — phone number or QR code; configure **Proxy** if needed.
+
+**Step 11. Confirmation code** — enter the code from Telegram on your phone.
+
+---
+
+### License
+
+**Step 12–14.** If no license — open **License settings**, activate a key, buy a license, or start **14-day demo** (send **HWID** to the developer).
+
+**Step 15–16.** After activation — restart when prompted; status should show **LICENSE ACTIVE**.
+
+---
+
+### Help & support
+
+**Step 17–18.** Menu **Help** — manual, support, **Write to developer**. Replies appear as **The developer replied to you**.
+
+**Contact:** [KoshaDrive channel](https://t.me/KoshaDrive) · [user chat](https://t.me/KoshaDrive_chat) · [Telegram DM](https://t.me/KoshaDrive?direct) · koshadrive@gmail.com
+
+</details>
+
+<details>
+<summary><strong>🇺🇦 Українська — встановлення та перший запуск</strong></summary>
+
+### Що знадобиться
+
+- Комп’ютер з **Windows 10 або 11**.
+- Вільне місце на диску (кілька сотень МБ).
+- Обліковий запис **Telegram** (додаток на телефоні).
+- Права адміністратора — зазвичай уже є у власника ПК.
+
+### Як завантажити інсталятор
+
+1. У розділі **«Скачать / Download»** вище натисніть **`KoshaDriveSetup_….exe`**.
+2. Збережіть файл, наприклад у «Завантаження».
+3. Якщо Windows запитає дозволу — натисніть **«Так»**.
+
+---
+
+### Майстер установки
+
+**Крок 1.** Мова установки — запустіть файл, оберіть мову, **OK**.
+
+**Крок 2.** Папка програм — зазвичай `C:\Program Files\KoshaDrive`, **Далі** (або **Огляд…**).
+
+**Крок 3.** Ярлики в меню «Пуск» — **Далі**; зніміть галочку, якщо не потрібно.
+
+**Крок 4.** Значок на робочому столі — за бажанням увімкніть, **Далі**.
+
+**Крок 5.** Перевірка — **Встановити** (або **Назад**).
+
+**Крок 6.** Очікування — не закривайте вікно.
+
+**Крок 7.** Готово — **Завершити**; галочка **Запустити KoshaDrive**.
+
+---
+
+### Перший запуск
+
+**Крок 8.** Ліцензійна угода — прочитайте, прийміть, **Прийняти**.
+
+**Крок 9.** API Telegram (за бажанням) — або **Продовжити без гарантій**.
+
+**Крок 10.** Вхід у Telegram — телефон або QR; **Проксі** за потреби.
+
+**Крок 11.** Код підтвердження — з Telegram на телефоні.
+
+---
+
+### Ліцензія
+
+**Крок 12–14.** Немає ліцензії — **Налаштування ліцензії**, ключ, покупка або **демо 14 днів** (надішліть **HWID**).
+
+**Крок 15–16.** Після активації — перезапуск; статус **ЛІЦЕНЗІЯ АКТИВНА**.
+
+---
+
+### Довідка та підтримка
+
+**Крок 17–18.** Меню **Довідка** — кнопка **Написати розробнику**. Відповідь — **Вам відповів розробник**.
+
+**Зв’язок:** [канал KoshaDrive](https://t.me/KoshaDrive) · [чат](https://t.me/KoshaDrive_chat) · [Telegram](https://t.me/KoshaDrive?direct) · koshadrive@gmail.com
+
+</details>
+
+---
+
+### Скриншоты / Screenshots / Скриншоти
+
+Нажмите миниатюру / Click thumbnail / Натисніть мініатюру для полного размера.
 
 <a href="docs/setup/full/setup_01.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_01.png" alt="setup_01.png" width="432"/></a>
 
@@ -197,5 +429,4 @@ KoshaDrive позволяет удобно хранить файлы и орга
 
 <a href="docs/setup/full/setup_18.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_18.png" alt="setup_18.png" width="432"/></a>
 
-</details>
 
