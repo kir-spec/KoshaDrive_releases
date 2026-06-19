@@ -3,8 +3,7 @@
 </p>
 
 
-# KoshaDrive
-
+<h1 align="center">KoshaDrive</h1>
 <p align="center">
   <strong><font color="#FF4444">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
 </p>
