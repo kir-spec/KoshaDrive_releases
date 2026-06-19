@@ -9,7 +9,9 @@
   <strong><font color="#FF4444">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
 </p>
 
-**Version / Версия / Версія:** `ver.18.06.2026`
+<p align="center">
+  <strong>Version / Версия / Версія:</strong> <code>ver.18.06.2026</code>
+</p>
 
 ## Download / Скачать / Завантажити
 
