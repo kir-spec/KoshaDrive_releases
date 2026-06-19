@@ -5,11 +5,11 @@
 
 # KoshaDrive
 
-**Версия:** `ver.18.06.2026`
+**Version / Версия / Версія:** `ver.18.06.2026`
 
-## Скачать
+## Download / Скачать / Завантажити
 
-Установщик: **[KoshaDriveSetup_18.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.18.06.2026/KoshaDriveSetup_18.06.2026.exe)**
+**Installer / Установщик / Інсталятор:** **[KoshaDriveSetup_18.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.18.06.2026/KoshaDriveSetup_18.06.2026.exe)**
 
 🇬🇧 **KoshaDrive** turns Telegram into your personal cloud drive on Windows — an Explorer-style file manager with a folder tree, thumbnails, drag-and-drop, and sync. Your files stay organized, not lost in chat history.
 
@@ -388,9 +388,9 @@ EN · RU · UA — choose a section below / выберите раздел / об
 ---
 
 <details>
-<summary><strong>Скриншоты / Screenshots / Скриншоти</strong></summary>
+<summary><strong>Screenshots / Скриншоты / Скриншоти</strong></summary>
 
-Нажмите миниатюру / Click thumbnail / Натисніть мініатюру для полного размера.
+Click thumbnail for full size / Нажмите миниатюру для полного размера / Натисніть мініатюру для повного розміру.
 
 <a href="docs/setup/full/setup_01.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_01.png" alt="setup_01.png" width="432"/></a>
 
