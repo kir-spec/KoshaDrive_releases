@@ -4,7 +4,13 @@
   <strong><font color="#FF4444">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
 </p>
 
+## Download / Скачать / Завантажити
+
 **Installer / Установщик / Інсталятор:** `KoshaDriveSetup_18.06.2026.exe`
+
+---
+
+## Description / Описание / Опис
 
 <img src="https://flagcdn.com/20x15/gb.png" alt="EN" width="20" height="15" align="top" /> **KoshaDrive** turns Telegram into your personal cloud drive on Windows — an Explorer-style file manager with a folder tree, thumbnails, drag-and-drop, and sync. Your files stay organized, not lost in chat history.
 
