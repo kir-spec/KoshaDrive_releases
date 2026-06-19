@@ -5,6 +5,10 @@
 
 # KoshaDrive
 
+<p align="center">
+  <strong><font color="#FF4444">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
+</p>
+
 **Version / Версия / Версія:** `ver.18.06.2026`
 
 ## Download / Скачать / Завантажити
