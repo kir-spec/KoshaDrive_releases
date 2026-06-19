@@ -387,7 +387,8 @@ EN · RU · UA — choose a section below / выберите раздел / об
 
 ---
 
-### Скриншоты / Screenshots / Скриншоти
+<details>
+<summary><strong>Скриншоты / Screenshots / Скриншоти</strong></summary>
 
 Нажмите миниатюру / Click thumbnail / Натисніть мініатюру для полного размера.
 
@@ -426,6 +427,7 @@ EN · RU · UA — choose a section below / выберите раздел / об
 <a href="docs/setup/full/setup_17.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_17.png" alt="setup_17.png" width="432"/></a>
 
 <a href="docs/setup/full/setup_18.png" target="_blank" rel="noopener noreferrer"><img src="docs/setup/setup_18.png" alt="setup_18.png" width="432"/></a>
+</details>
 
 
 
