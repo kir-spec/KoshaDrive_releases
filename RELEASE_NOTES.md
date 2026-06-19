@@ -379,10 +379,10 @@ EN · RU · UA — choose a section below / выберите раздел / об
 
 ---
 
-## Telegram и поддержка
+## Contact the developer / Связь с разработчиком / Зв'язок з розробником
 
-- **Канал программы:** [@KoshaDrive](https://t.me/KoshaDrive) — новости и обновления
-- **Чат пользователей:** [@KoshaDrive_chat](https://t.me/KoshaDrive_chat)
-- **Написать разработчику:** [личные сообщения канала](https://t.me/KoshaDrive?direct) (кнопка «Написать» в профиле [@KoshaDrive](https://t.me/KoshaDrive))
-- **Почта:** [koshadrive@gmail.com](mailto:koshadrive@gmail.com)
+- **Program channel:** [@KoshaDrive](https://t.me/KoshaDrive) — news and updates
+- **User chat:** [@KoshaDrive_chat](https://t.me/KoshaDrive_chat)
+- **Contact the developer:** [channel direct messages](https://t.me/KoshaDrive?direct) (Message button on the [@KoshaDrive](https://t.me/KoshaDrive) profile)
+- **Email:** [koshadrive@gmail.com](mailto:koshadrive@gmail.com)
 
