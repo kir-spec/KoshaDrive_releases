@@ -10,6 +10,8 @@
 
 **Installer:** `KoshaDriveSetup_18.06.2026.exe`
 
+**Latest rebuild (19:30):** three-language auth/installer UI (EN/RU/UKR), localized login backend messages, cleaner license-denied logging.
+
 ---
 
 ## Description
