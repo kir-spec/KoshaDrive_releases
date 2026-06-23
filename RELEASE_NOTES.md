@@ -1,16 +1,14 @@
-# KoshaDrive 18.06.2026
+# KoshaDrive 23.06.2026
 
 <p align="center">
   <strong><font color="#58A6FF">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
 </p>
 
-**Version:** `ver.18.06.2026`
+**Version:** `ver.23.06.2026`
 
 ## Download
 
-**Installer:** `KoshaDriveSetup_18.06.2026.exe`
-
-**Latest rebuild (19:30):** three-language auth/installer UI (EN/RU/UKR), localized login backend messages, cleaner license-denied logging.
+**Installer:** `KoshaDriveSetup_23.06.2026.exe`
 
 ---
 
@@ -53,11 +51,11 @@ KoshaDrive is a **cloud file manager** for Windows: turn Telegram into a persona
 - **EN / RU** localization; in-app help and About screen.
 
 ### Reliability
-- **FloodWait** handling, network error classification, **680+ automated tests**.
+- **FloodWait** handling, network error classification, **1008+ automated tests**.
 - Licensing v3, demo mode, protected API credentials in release builds.
 
 ### Installation
-1. Download `KoshaDriveSetup_18.06.2026.exe` below.
+1. Download `KoshaDriveSetup_23.06.2026.exe` below.
 2. Windows 10/11, x64.
 3. Settings and database preserved on upgrade.
 

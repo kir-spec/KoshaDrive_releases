@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <strong>Version / Версия / Версія:</strong> <code>ver.18.06.2026</code>
+  <strong>Version / Версия / Версія:</strong> <code>ver.23.06.2026</code>
 </p>
 
 ## Download / Скачать / Завантажити
 
-**Installer / Установщик / Інсталятор:** **[KoshaDriveSetup_18.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.18.06.2026/KoshaDriveSetup_18.06.2026.exe)**
+**Installer / Установщик / Інсталятор:** **[KoshaDriveSetup_23.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.23.06.2026/KoshaDriveSetup_23.06.2026.exe)**
 
 ---
 
@@ -68,11 +68,11 @@ KoshaDrive is a **cloud file manager** for Windows: turn Telegram into a persona
 - **EN / RU** localization; in-app help and About screen.
 
 ### Reliability
-- **FloodWait** handling, network error classification, **680+ automated tests**.
+- **FloodWait** handling, network error classification, **1008+ automated tests**.
 - Licensing v3, demo mode, protected API credentials in release builds.
 
 ### Installation
-1. Download `KoshaDriveSetup_18.06.2026.exe` below.
+1. Download `KoshaDriveSetup_23.06.2026.exe` below.
 2. Windows 10/11, x64.
 3. Settings and database preserved on upgrade.
 
@@ -114,11 +114,11 @@ KoshaDrive — **облачный файловый менеджер** для Win
 - Локализация **EN / RU**; справка и «О программе» внутри приложения.
 
 ### Надёжность
-- Обработка **FloodWait**, классификация сетевых ошибок, **680+ автотестов**.
+- Обработка **FloodWait**, классификация сетевых ошибок, **1008+ автотестов**.
 - Лицензирование v3, демо-режим, защита API-ключей в сборке.
 
 ### Установка
-1. Скачайте `KoshaDriveSetup_18.06.2026.exe` ниже.
+1. Скачайте `KoshaDriveSetup_23.06.2026.exe` ниже.
 2. Windows 10/11, x64.
 3. При обновлении настройки и база сохраняются.
 
@@ -160,11 +160,11 @@ KoshaDrive — **хмарний файловий менеджер** для Windo
 - Локалізація **EN / RU**; довідка та «Про програму» в застосунку.
 
 ### Надійність
-- Обробка **FloodWait**, класифікація мережевих помилок, **680+ автотестів**.
+- Обробка **FloodWait**, класифікація мережевих помилок, **1008+ автотестів**.
 - Ліцензування v3, демо-режим, захист API-ключів у збірці.
 
 ### Встановлення
-1. Завантажте `KoshaDriveSetup_18.06.2026.exe` нижче.
+1. Завантажте `KoshaDriveSetup_23.06.2026.exe` нижче.
 2. Windows 10/11, x64.
 3. При оновленні налаштування та база зберігаються.
 
