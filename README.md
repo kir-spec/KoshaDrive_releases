@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <strong>Version / Версия / Версія:</strong> <code>ver.24.06.2026</code>
+  <strong>Version / Версия / Версія:</strong> <code>ver.24.07.2026</code>
 </p>
 
 ## Download / Скачать / Завантажити
 
-**Installer / Установщик / Інсталятор:** **[KoshaDriveSetup_24.06.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.24.06.2026/KoshaDriveSetup_24.06.2026.exe)**
+**Installer / Установщик / Інсталятор:** **[KoshaDriveSetup_24.07.2026.exe](https://github.com/kir-spec/KoshaDrive_releases/releases/download/ver.24.07.2026/KoshaDriveSetup_24.07.2026.exe)**
 
 ---
 

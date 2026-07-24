@@ -1,14 +1,25 @@
-# KoshaDrive 24.06.2026
+# KoshaDrive 24.07.2026
 
 <p align="center">
   <strong><font color="#58A6FF">A revolutionary file manager that stores files in the unlimited Telegram cloud.</font></strong>
 </p>
 
-**Version:** `ver.24.06.2026`
+**Version:** `ver.24.07.2026`
 
 ## Download
 
-**Installer:** `KoshaDriveSetup_24.06.2026.exe`
+**Installer:** `KoshaDriveSetup_24.07.2026.exe`
+
+---
+
+## What's new in 24.07.2026
+
+- **Cleaner Telegram cloud after DB normalization** — stale `#koshadrive_sys_db` and comments-database copies are pruned automatically when your local database is verified.
+- **More reliable database open** — fixes interrupted schema migration (`filesystem_old_v12`) and incomplete-upload bookkeeping.
+- **Simpler cross-device DB sync** — removed cloud HMAC signature checks and the signature-conflict dialog that could block legitimate restores.
+- **Clearer no-license screen** — guided path to license settings or demo mode.
+- **Color emoji in comments** — Twemoji icons in the emoji panel on Windows.
+- **Help tip** — for very large uploads, you can bulk-send files via the Telegram client to **Saved Messages**, then organize them in KoshaDrive (not for **My Cloud** mode).
 
 ---
 
@@ -38,97 +49,27 @@ KoshaDrive is a **cloud file manager** for Windows: turn Telegram into a persona
 - **Thumbnails** with retry on network errors — previews stay responsive.
 
 ### Recycle Bin (Windows-style)
-- **Soft delete** — cloud copy remains until you purge Trash.
-- Dedicated Trash window, **restore** with conflict dialogs, drag-restore.
+- Deleted items go to a **Recycle Bin**; restore or purge permanently.
+- Empty bin manually or on schedule.
 
-### Tools & migration
-- **T-Drive → KoshaDrive import** — migrate legacy databases.
-- **DB sync & audit**, settings backup, **proxy** support.
-- **Built-in Telegram chat** — share files with contacts without leaving the app.
-
-### UI & settings
-- Dark theme, **workspace background**, file name colors, **live folder style preview**.
-- **EN / RU / UA** localization; in-app help and About screen.
-
-### Reliability
-- **FloodWait** handling, network error classification, **1000+ automated tests**.
-- Licensing v3, demo mode, protected API credentials in release builds.
-
-### Installation
-1. Download `KoshaDriveSetup_24.06.2026.exe` below.
-2. Windows 10/11, x64.
-3. Settings and database preserved on upgrade.
+### Security & licensing
+- Encrypted local database (SQLCipher).
+- Demo mode (14 days, one-time per install).
+- License activation and remote policy checks.
 
 ---
 
-## Installation
+## System requirements
 
-### Requirements
+- Windows 10/11 (64-bit)
+- Telegram account
+- Internet connection
 
-- **Windows 10 or 11** PC.
-- A few hundred MB of free disk space.
-- A **Telegram** account (Telegram app on your phone).
-- Administrator rights — usually already available on your own PC.
+## Support
 
-### Download the installer
+- Telegram: [KoshaDrive chat](https://t.me/KoshaDrive_chat)
+- Issues: use the support chat (this repo is releases-only)
 
-1. Click **`KoshaDriveSetup_….exe`** in the **Download** section above.
-2. Save the file (e.g. to Downloads).
-3. If Windows asks to allow changes — click **Yes**.
+## License
 
----
-
-### Installation wizard
-
-**Step 1. Setup language** — run the downloaded file, choose language, click **OK**.
-
-**Step 2. Install folder** — default `C:\Program Files\KoshaDrive` is fine; click **Next** (or **Browse…** to change).
-
-**Step 3. Start menu shortcuts** — click **Next**; uncheck if you do not want a Start menu folder.
-
-**Step 4. Desktop icon** — optionally enable a **desktop shortcut**, then **Next**.
-
-**Step 5. Ready to install** — review summary, click **Install** (or **Back** to edit).
-
-**Step 6. Wait** — files are copied; do not close the window.
-
-**Step 7. Finish** — click **Finish**; leave **Launch KoshaDrive** checked to start immediately.
-
----
-
-### First launch
-
-**Step 8. EULA** — read, check **I accept…**, click **Accept**.
-
-**Step 9. Telegram API (optional)** — advanced users may set API ID/Hash; or **Continue without guarantees**.
-
-**Step 10. Telegram login** — phone number or QR code; configure **Proxy** if needed.
-
-**Step 11. Confirmation code** — enter the code from Telegram on your phone.
-
----
-
-### License
-
-**Step 12–14.** If no license — open **License settings**, activate a key, buy a license, or start **14-day demo** (send **HWID** to the developer).
-
-**Step 15–16.** After activation — restart when prompted; status should show **LICENSE ACTIVE**.
-
----
-
-### Help & support
-
-**Step 17–18.** Menu **Help** — manual, support, **Write to developer**. Replies appear as **The developer replied to you**.
-
-**Contact:** [KoshaDrive channel](https://t.me/KoshaDrive) · [user chat](https://t.me/KoshaDrive_chat) · [Telegram DM](https://t.me/KoshaDrive?direct) · koshadrive@gmail.com
-
-
----
-
-## Contact the developer
-
-- **Program channel:** [@KoshaDrive](https://t.me/KoshaDrive) — news and updates
-- **User chat:** [@KoshaDrive_chat](https://t.me/KoshaDrive_chat)
-- **Contact the developer:** [channel direct messages](https://t.me/KoshaDrive?direct) (Message button on the [@KoshaDrive](https://t.me/KoshaDrive) profile)
-- **Email:** [koshadrive@gmail.com](mailto:koshadrive@gmail.com)
-
+Proprietary. See the installer EULA.
